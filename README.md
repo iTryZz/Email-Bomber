@@ -8,6 +8,7 @@
 
 Github link:
 
+https://github.com/iTryZz
 
 -This is a simple Email Bomber program written in python3, which only works with gmail accounts.
 
